@@ -6,7 +6,7 @@
 - https://nvdimm.wiki.kernel.org/
 - https://zhuanlan.zhihu.com/p/391107604
 - https://polardb-x-tianchi-race-2022.oss-cn-hangzhou.aliyuncs.com/documents/%E6%8C%81%E4%B9%85%E5%86%85%E5%AD%98%E5%BF%AB%E9%80%9F%E7%BC%96%E7%A8%8B%E6%89%8B%E5%86%8C.pdf
-
+- [pmem笔记](https://zhuanlan.zhihu.com/p/598568392)
 ## Code
 - https://github.com/pmem/pmdk/tree/master/src/examples
 - [pmem hackathon](https://github.com/orgs/pmemhackathon/repositories?type=all)
