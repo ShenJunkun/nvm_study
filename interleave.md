@@ -4,6 +4,7 @@
 - https://docs.pmem.io/ndctl-user-guide/concepts
 
 - https://www.usenix.org/system/files/login/articles/login_fall20_02_yang.pdf
+- https://www.usenix.org/sites/default/files/conference/protected-files/fast20_slides_izraelevitz.pdf
 
 - https://mediatum.ub.tum.de/doc/1586220/document.pdf
 
